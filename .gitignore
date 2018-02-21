@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+json-scheme-generator.so
+json-scheme-generator.dylib
+json-scheme-generator.dll
+json-scheme-generator.a
+json-scheme-generator.lib
+json-scheme-generator-test-*
+*.exe
+*.o
+*.obj
+*.lst
