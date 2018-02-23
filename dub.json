@@ -3,6 +3,9 @@
 	"authors": [
 		"000Sanya"
 	],
+	"dependencies" : {
+		"taggedalgebraic": "~>0.10.9"
+	},
 	"description": "A minimal D application.",
 	"copyright": "Copyright © 2018, 000Sanya",
 	"license": "proprietary"
